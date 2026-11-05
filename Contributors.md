@@ -547,7 +547,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
-- [Leonardo Modesto Bernardoni](https://github.com/Leomb-coder)
+- [Leomb](https://github.com/Leomb-coder)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
 - [Baris Yildizel]
